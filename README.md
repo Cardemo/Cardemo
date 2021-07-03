@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Matheus Cardoso Soares;
+- 👀 Sou interessado em aprender sobre novas tecnologias e atividades físicas;
+- 🌱 Estou estudando sobre segurança da informação, linux e programação. Atualmente estou cursando sistemas de informação;
+- 📫 Pode me contatar através do email -> cardosom145@gmail.com
